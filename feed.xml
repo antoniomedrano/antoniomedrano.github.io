@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:65778801-FE2F-4D89-A251-254AA28DBA8B</id>
+ <title>Page list Atom feed</title>
+ <updated>2017-02-15T12:42:57-08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:E6BBF668-E087-445C-AB37-547BA85D030E</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">E6BBF668-E087-445C-AB37-547BA85D030E</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2017-02-15T12:42:57.001-08:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5895960B-454A-4BF8-943B-E28F73A33238</id>
+  <title>Curriculum Vitae</title>
+  <title xmlns="urn:iweb:">Curriculum Vitae</title>
+  <in-navbar xmlns="urn:iweb:">5895960B-454A-4BF8-943B-E28F73A33238</in-navbar>
+  <link rel="alternate" href="Curriculum_Vitae.html"/>
+  <updated>2017-02-15T12:42:57.002-08:00</updated>
+  <content>Curriculum Vitae</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E11CC034-F73E-41E5-8AC0-E64E96B97543</id>
+  <title>Videos</title>
+  <title xmlns="urn:iweb:">Videos</title>
+  <in-navbar xmlns="urn:iweb:">E11CC034-F73E-41E5-8AC0-E64E96B97543</in-navbar>
+  <link rel="alternate" href="Videos.html"/>
+  <updated>2017-02-15T12:42:57.003-08:00</updated>
+  <content>Videos</content>
+ </entry>
+</feed>
