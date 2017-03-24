@@ -805,15 +805,6 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_8 {
-    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
-    font-size: 8px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 400;
-    line-height: 15px;
-    vertical-align: 4px;
-}
 .paragraph_style_34 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
@@ -826,7 +817,7 @@
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 18px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -836,14 +827,23 @@
     text-indent: -36px;
     text-transform: none;
 }
+.style_8 {
+    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
+    font-size: 8px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 15px;
+    vertical-align: 4px;
+}
 .paragraph_style_35 {
     color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
@@ -870,7 +870,7 @@
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 0px;
+    margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -882,12 +882,12 @@
 }
 .paragraph_style_37 {
     color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
@@ -938,7 +938,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_731_2516 {
+.style_External_731_2573 {
     position: relative;
 }
 .Body {
@@ -1020,10 +1020,10 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_2516 {
+.graphic_textbox_layout_style_default_External_156_27 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_156_27 {
+.graphic_textbox_layout_style_default_External_731_2573 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
