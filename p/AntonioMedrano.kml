@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+	<Document>
+		<Placemark>
+			<name>Girvetz Theater</name>
+			<description>
+				This is where BFOM will have a concert on 11/24/08 at 9:34pm
+				<![CDATA[<img src="http://www.id.ucsb.edu/me/classrooms/GIRVETZ/1004/Girvetz1004b.JPG" />
+				<p>Photo Credit: <a href="http://www.id.ucsb.edu/me/classrooms/GIRVETZ/1004/Girvetz1004.html">click here</a><br>
+				For more info on the concert, go to our <a href="http://www.facebook.com/inbox/?ref=mb#/event.php?eid=32829944655">Facebook Event Page</a><br><br></p>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-119.8466,34.4139,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>858 Gwyne Ave</name>
+			<description>
+				This is where I live!
+				<![CDATA[<img src="http://photos-f.ll.facebook.com/photos-ll-sf2p/v76/221/22/3602923/n3602923_34400173_1296.jpg" /><br><br>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-119.807,34.4263,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		
+		<Placemark>
+			<name>BFOM Sings in Santa Rosa</name>
+			<description>
+				All male a cappella group from UCSB singing a brothagram for the Santa Rosa Residence Hall
+				
+				Featuring:
+				DJ Ozan (Soloist), Matt Maimoni, Bobby Halvorson, Brendan Sherlock (Vocal Percussion), Bryce Bullock, Adam Kurihara, Jimmy Percival, Jeff Lum, Antonio Medrano 
+				<![CDATA[<p><object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/9iu6EyVFqqs&hl=en&fs=1&rel=0&color1=0x3a3a3a&color2=0x999999&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9iu6EyVFqqs&hl=en&fs=1&rel=0&color1=0x3a3a3a&color2=0x999999&border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="349"></embed></object></p>
+				BFOM's Webpage: <a href="http://orgs.sa.ucsb.edu/bfom/">orgs.sa.ucsb.edu/bfom/</a><br><br>
+				]]>
+			</description>
+			<Point>
+				<coordinates>-119.845,34.4112,0</coordinates>
+			</Point>
+		</Placemark>
+				
+	</Document>
+</kml>
