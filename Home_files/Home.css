@@ -294,10 +294,10 @@ a:visited {
     text-decoration: underline;
 }
 a.class1 {
-    color: rgb(43, 81, 137);
+    color: rgb(43, 82, 137);
 }
 a.class1:visited {
-    color: rgb(43, 81, 137);
+    color: rgb(43, 82, 137);
 }
 a.class1:hover {
     color: rgb(255, 38, 0);
@@ -314,10 +314,10 @@ a.class2:hover {
     text-decoration: underline;
 }
 a.class3 {
-    color: rgb(43, 82, 137);
+    color: rgb(43, 81, 137);
 }
 a.class3:visited {
-    color: rgb(43, 82, 137);
+    color: rgb(43, 81, 137);
 }
 a.class3:hover {
     color: rgb(255, 38, 0);
