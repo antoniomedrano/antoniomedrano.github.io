@@ -519,6 +519,29 @@
     text-indent: -36px;
     text-transform: none;
 }
+.style_8 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    opacity: 1.00;
+}
+.style_External_731_2874 {
+    position: relative;
+}
+.style_9 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times-Italic', 'Times', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 14px;
+    opacity: 1.00;
+}
 .paragraph_style_21 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
@@ -540,6 +563,14 @@
     text-decoration: none;
     text-indent: -36px;
     text-transform: none;
+}
+.style_10 {
+    font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
 }
 .paragraph_style_22 {
     color: rgb(0, 0, 0);
@@ -783,7 +814,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_8 {
+.style_11 {
     font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
     font-size: 8px;
     font-stretch: normal;
@@ -925,13 +956,10 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_9 {
+.style_12 {
     color: rgb(0, 0, 0);
     line-height: 31px;
     opacity: 1.00;
-}
-.style_External_731_2838 {
-    position: relative;
 }
 .style_SkipStroke_1 {
     background: transparent;
@@ -1020,14 +1048,14 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_2838 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_156_27 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_731_2874 {
+    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
