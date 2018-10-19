@@ -529,9 +529,6 @@
     line-height: 14px;
     opacity: 1.00;
 }
-.style_External_731_2874 {
-    position: relative;
-}
 .style_9 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Italic', 'Times', 'Times New Roman', serif;
@@ -969,6 +966,9 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_731_2910 {
+    position: relative;
+}
 .Body {
     color: rgb(169, 169, 169);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -1048,14 +1048,14 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_731_2910 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_156_27 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_731_2874 {
-    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
