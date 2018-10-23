@@ -958,6 +958,9 @@
     line-height: 31px;
     opacity: 1.00;
 }
+.style_External_731_2843 {
+    position: relative;
+}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
@@ -965,9 +968,6 @@
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_731_2910 {
-    position: relative;
 }
 .Body {
     color: rgb(169, 169, 169);
@@ -1048,7 +1048,7 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_2910 {
+.graphic_textbox_layout_style_default_External_731_2843 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_156_27 {
