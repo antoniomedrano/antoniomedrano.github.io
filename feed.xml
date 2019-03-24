@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:D001EC35-00A9-479F-BE83-C3FD4BFE626A</id>
  <title>Page list Atom feed</title>
- <updated>2019-01-01T22:24:45-08:00</updated>
+ <updated>2019-03-24T16:52:17-05:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">D04BA8A2-43DF-4B3B-A0A6-1C088EDC9C60</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2019-01-01T22:24:45.001-08:00</updated>
+  <updated>2019-03-24T16:52:17.001-05:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Curriculum Vitae</title>
   <in-navbar xmlns="urn:iweb:">EAA2A3F5-F81B-42C5-BD92-0D21257DC026</in-navbar>
   <link rel="alternate" href="Curriculum_Vitae.html"/>
-  <updated>2019-01-01T22:24:45.002-08:00</updated>
+  <updated>2019-03-24T16:52:17.002-05:00</updated>
   <content>Curriculum Vitae</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Videos</title>
   <in-navbar xmlns="urn:iweb:">B6C7794D-31CB-48C9-9BBC-9B2E65D696BB</in-navbar>
   <link rel="alternate" href="Videos.html"/>
-  <updated>2019-01-01T22:24:45.003-08:00</updated>
+  <updated>2019-03-24T16:52:17.003-05:00</updated>
   <content>Videos</content>
  </entry>
 </feed>
