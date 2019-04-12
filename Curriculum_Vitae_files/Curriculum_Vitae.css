@@ -864,9 +864,6 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_External_731_2909 {
-    position: relative;
-}
 .paragraph_style_35 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
@@ -991,6 +988,9 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_731_2945 {
+    position: relative;
+}
 .Body {
     color: rgb(169, 169, 169);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -1070,14 +1070,14 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_2909 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_156_27 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_731_2945 {
+    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
