@@ -541,6 +541,9 @@
     text-indent: -36px;
     text-transform: none;
 }
+.style_External_731_3053 {
+    position: relative;
+}
 .style_8 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
@@ -560,9 +563,6 @@
     font-weight: 400;
     line-height: 14px;
     opacity: 1.00;
-}
-.style_External_731_3089 {
-    position: relative;
 }
 .paragraph_style_22 {
     color: rgb(0, 0, 0);
@@ -1070,7 +1070,7 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_3089 {
+.graphic_textbox_layout_style_default_External_731_3053 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_156_27 {
