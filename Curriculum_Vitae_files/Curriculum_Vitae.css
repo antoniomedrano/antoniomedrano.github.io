@@ -561,6 +561,9 @@
     line-height: 14px;
     opacity: 1.00;
 }
+.style_External_731_3089 {
+    position: relative;
+}
 .paragraph_style_22 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
@@ -980,9 +983,6 @@
     line-height: 31px;
     opacity: 1.00;
 }
-.style_External_731_2981 {
-    position: relative;
-}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
@@ -1070,7 +1070,7 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_2981 {
+.graphic_textbox_layout_style_default_External_731_3089 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_156_27 {
