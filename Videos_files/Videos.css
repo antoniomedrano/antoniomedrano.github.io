@@ -89,7 +89,19 @@
     color: rgb(169, 169, 169);
     text-decoration: underline;
 }
+#widget6 a {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+#widget6 a:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
 #widget4 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget6 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
 }
