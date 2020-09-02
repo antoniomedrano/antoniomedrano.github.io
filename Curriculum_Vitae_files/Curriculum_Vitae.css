@@ -423,6 +423,9 @@
     font-weight: 400;
     line-height: 15px;
 }
+.style_External_731_3300 {
+    position: relative;
+}
 .paragraph_style_17 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
@@ -651,6 +654,14 @@
     text-indent: -36px;
     text-transform: none;
 }
+.style_8 {
+    font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+}
 .paragraph_style_27 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
@@ -673,7 +684,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_8 {
+.style_9 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 12px;
@@ -683,7 +694,7 @@
     line-height: 14px;
     opacity: 1.00;
 }
-.style_9 {
+.style_10 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Italic', 'Times', 'Times New Roman', serif;
     font-size: 12px;
@@ -715,7 +726,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_10 {
+.style_11 {
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
@@ -1009,7 +1020,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_11 {
+.style_12 {
     font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
     font-size: 8px;
     font-stretch: normal;
@@ -1084,9 +1095,6 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_External_731_3267 {
-    position: relative;
-}
 .paragraph_style_45 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
@@ -1131,7 +1139,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_12 {
+.style_13 {
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 11px;
     font-stretch: normal;
@@ -1206,7 +1214,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_13 {
+.style_14 {
     color: rgb(0, 0, 0);
     line-height: 31px;
     opacity: 1.00;
@@ -1298,10 +1306,10 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_156_27 {
+.graphic_textbox_layout_style_default_External_731_3300 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_731_3267 {
+.graphic_textbox_layout_style_default_External_156_27 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
