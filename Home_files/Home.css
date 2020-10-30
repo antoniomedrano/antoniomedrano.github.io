@@ -126,15 +126,10 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: right;
+    text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style {
-    color: rgb(0, 0, 0);
-    line-height: 31px;
-    opacity: 1.00;
 }
 .style_SkipStroke_1 {
     background: transparent;
@@ -292,13 +287,13 @@
 .graphic_textbox_layout_style_default_External_349_241 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_349_318 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_299_41 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_302_367 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_349_356 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
