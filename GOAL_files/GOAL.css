@@ -279,6 +279,16 @@ a.class3:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
 }
+a.class4 {
+    color: rgb(2, 33, 181);
+}
+a.class4:visited {
+    color: rgb(2, 33, 181);
+}
+a.class4:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
 a:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
