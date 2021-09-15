@@ -320,6 +320,10 @@
     text-transform: none;
 }
 .style_5 {
+    letter-spacing:    -0.10em;
+    line-height: 15px;
+}
+.style_6 {
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
@@ -348,6 +352,10 @@
     text-decoration: none;
     text-indent: -63px;
     text-transform: none;
+}
+.style_7 {
+    letter-spacing:    -0.13em;
+    line-height: 15px;
 }
 .paragraph_style_14 {
     color: rgb(0, 0, 0);
@@ -415,7 +423,7 @@
     text-indent: -63px;
     text-transform: none;
 }
-.style_6 {
+.style_8 {
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
@@ -445,7 +453,7 @@
     text-indent: -63px;
     text-transform: none;
 }
-.style_7 {
+.style_9 {
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
@@ -651,7 +659,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_8 {
+.style_10 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Bold', 'Times', 'Times New Roman', serif;
     font-size: 12px;
@@ -661,7 +669,7 @@
     line-height: 14px;
     opacity: 1.00;
 }
-.style_9 {
+.style_11 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 12px;
@@ -693,7 +701,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_10 {
+.style_12 {
     color: rgb(3, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -703,7 +711,7 @@
     line-height: 15px;
     opacity: 1.00;
 }
-.style_11 {
+.style_13 {
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
@@ -733,7 +741,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_12 {
+.style_14 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 12px;
@@ -743,7 +751,7 @@
     line-height: 14px;
     opacity: 1.00;
 }
-.style_13 {
+.style_15 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Italic', 'Times', 'Times New Roman', serif;
     font-size: 12px;
@@ -775,7 +783,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_14 {
+.style_16 {
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
@@ -805,12 +813,12 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_15 {
+.style_17 {
     color: rgb(3, 0, 0);
     line-height: 15px;
     opacity: 1.00;
 }
-.style_16 {
+.style_18 {
     color: rgb(4, 51, 255);
     line-height: 15px;
     opacity: 1.00;
@@ -859,6 +867,9 @@
     text-indent: -18px;
     text-transform: none;
 }
+.style_External_731_3347 {
+    position: relative;
+}
 .paragraph_style_33 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
@@ -875,7 +886,7 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 3px;
+    padding-top: 6px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -919,7 +930,7 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 6px;
+    padding-top: 3px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -1035,7 +1046,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_17 {
+.style_19 {
     font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
     font-size: 8px;
     font-stretch: normal;
@@ -1154,10 +1165,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_External_731_3275 {
-    position: relative;
-}
-.style_18 {
+.style_20 {
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 11px;
     font-stretch: normal;
@@ -1232,17 +1240,17 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_19 {
-    color: rgb(0, 0, 0);
-    line-height: 31px;
-    opacity: 1.00;
-}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke {
     background: transparent;
+    opacity: 1.00;
+}
+.style_21 {
+    color: rgb(0, 0, 0);
+    line-height: 31px;
     opacity: 1.00;
 }
 .Body {
@@ -1324,7 +1332,7 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_3275 {
+.graphic_textbox_layout_style_default_External_731_3347 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_156_27 {
