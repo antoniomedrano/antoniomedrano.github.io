@@ -901,24 +901,24 @@
 }
 .paragraph_style_33 {
     color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
-    margin-left: 18px;
-    margin-right: 0px;
+    margin-left: 0px;
+    margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-top: 0px;
     text-align: left;
     text-decoration: none;
-    text-indent: -36px;
+    text-indent: -18px;
     text-transform: none;
 }
 .paragraph_style_34 {
@@ -936,8 +936,8 @@
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -959,7 +959,7 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 6px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -989,21 +989,21 @@
 }
 .paragraph_style_37 {
     color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
-    font-style: italic;
+    font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 18px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 6px;
+    padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -1011,21 +1011,21 @@
 }
 .paragraph_style_38 {
     color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
-    font-style: italic;
+    font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 18px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 6px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -1087,7 +1087,7 @@
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 0px;
+    margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -1109,7 +1109,7 @@
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 0px;
+    margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -1120,6 +1120,50 @@
     text-transform: none;
 }
 .paragraph_style_43 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 6px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
+}
+.paragraph_style_44 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
+}
+.paragraph_style_45 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -1150,7 +1194,7 @@
     line-height: 15px;
     vertical-align: 4px;
 }
-.paragraph_style_44 {
+.paragraph_style_46 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -1158,50 +1202,6 @@
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 18px;
-    margin-right: 18px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -36px;
-    text-transform: none;
-}
-.paragraph_style_45 {
-    color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 18px;
-    margin-right: 18px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -36px;
-    text-transform: none;
-}
-.paragraph_style_46 {
-    color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
@@ -1228,7 +1228,7 @@
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 0px;
+    margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -1239,6 +1239,50 @@
     text-transform: none;
 }
 .paragraph_style_48 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
+}
+.paragraph_style_49 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
+}
+.paragraph_style_50 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -1268,7 +1312,7 @@
     font-weight: 400;
     line-height: 12px;
 }
-.paragraph_style_49 {
+.paragraph_style_51 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -1290,7 +1334,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_50 {
+.paragraph_style_52 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -1312,7 +1356,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_51 {
+.paragraph_style_53 {
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -1340,7 +1384,7 @@
     line-height: 31px;
     opacity: 1.00;
 }
-.style_External_731_3539 {
+.style_External_731_3590 {
     position: relative;
 }
 .style_SkipStroke_1 {
@@ -1430,7 +1474,7 @@
 .graphic_shape_layout_style_default_External_620_41 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_731_3539 {
+.graphic_textbox_layout_style_default_External_731_3590 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_156_27 {
