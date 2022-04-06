@@ -1119,6 +1119,9 @@
     text-indent: -36px;
     text-transform: none;
 }
+.style_External_731_3493 {
+    position: relative;
+}
 .paragraph_style_43 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
@@ -1184,9 +1187,6 @@
     text-decoration: none;
     text-indent: -36px;
     text-transform: none;
-}
-.style_External_731_4058 {
-    position: relative;
 }
 .paragraph_style_46 {
     color: rgb(0, 0, 0);
@@ -1516,7 +1516,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_4058 {
+.graphic_textbox_layout_style_default_External_731_3493 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
