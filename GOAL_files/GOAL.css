@@ -286,12 +286,42 @@ a.class3:hover {
     text-decoration: underline;
 }
 a.class4 {
-    color: rgb(2, 33, 181);
+    color: rgb(2, 30, 170);
 }
 a.class4:visited {
-    color: rgb(2, 33, 181);
+    color: rgb(2, 30, 170);
 }
 a.class4:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class5 {
+    color: rgb(2, 33, 181);
+}
+a.class5:visited {
+    color: rgb(2, 33, 181);
+}
+a.class5:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class6 {
+    color: rgb(2, 30, 170);
+}
+a.class6:visited {
+    color: rgb(2, 30, 170);
+}
+a.class6:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class7 {
+    color: rgb(2, 30, 170);
+}
+a.class7:visited {
+    color: rgb(2, 30, 170);
+}
+a.class7:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
 }
