@@ -375,9 +375,6 @@
     text-indent: -63px;
     text-transform: none;
 }
-.style_External_731_3596 {
-    position: relative;
-}
 .style_8 {
     letter-spacing:    -0.01em;
     line-height: 15px;
@@ -597,6 +594,36 @@
     text-transform: none;
 }
 .style_13 {
+    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 15px;
+}
+.paragraph_style_24 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 6px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
+}
+.style_14 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -606,17 +633,17 @@
     line-height: 15px;
     opacity: 1.00;
 }
-.style_14 {
+.style_15 {
     color: rgb(0, 0, 0);
     line-height: 15px;
     opacity: 1.00;
 }
-.style_15 {
+.style_16 {
     color: rgb(3, 0, 0);
     line-height: 15px;
     opacity: 1.00;
 }
-.paragraph_style_24 {
+.paragraph_style_25 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -638,7 +665,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.paragraph_style_25 {
+.paragraph_style_26 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -660,10 +687,10 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_16 {
+.style_17 {
     line-height: 15px;
 }
-.paragraph_style_26 {
+.paragraph_style_27 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -685,12 +712,12 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_17 {
+.style_18 {
     color: rgb(4, 51, 255);
     line-height: 15px;
     opacity: 1.00;
 }
-.paragraph_style_27 {
+.paragraph_style_28 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -712,7 +739,7 @@
     text-indent: -18px;
     text-transform: none;
 }
-.paragraph_style_28 {
+.paragraph_style_29 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -734,28 +761,6 @@
     text-indent: -36px;
     text-transform: none;
 }
-.paragraph_style_29 {
-    color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 18px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 6px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -36px;
-    text-transform: none;
-}
 .paragraph_style_30 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
@@ -772,7 +777,7 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 6px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -790,11 +795,11 @@
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 18px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 6px;
+    padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -816,7 +821,7 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 6px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -834,24 +839,15 @@
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 0px;
+    margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 3px;
+    padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
     text-transform: none;
-}
-.style_18 {
-    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
-    font-size: 8px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 15px;
-    vertical-align: 4px;
 }
 .paragraph_style_34 {
     color: rgb(0, 0, 0);
@@ -1059,6 +1055,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_731_2431 {
+    position: relative;
+}
 .paragraph_style_43 {
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
@@ -1087,11 +1086,11 @@
     line-height: 31px;
     opacity: 1.00;
 }
-.style_SkipStroke_1 {
+.style_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke {
+.style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
@@ -1174,14 +1173,14 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_156_27 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_731_3596 {
+.graphic_textbox_layout_style_default_External_731_2431 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_200_27 {
+    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
