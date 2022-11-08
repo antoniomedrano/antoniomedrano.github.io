@@ -450,15 +450,15 @@
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
-    margin-left: -18px;
-    margin-right: 18px;
+    margin-left: 54px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 6px;
     text-align: left;
     text-decoration: none;
-    text-indent: 0px;
+    text-indent: -72px;
     text-transform: none;
 }
 .paragraph_style_18 {
@@ -477,7 +477,7 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 6px;
+    padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: -72px;
@@ -494,15 +494,15 @@
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
-    margin-left: 54px;
-    margin-right: 0px;
+    margin-left: -18px;
+    margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
-    text-indent: -72px;
+    text-indent: 0px;
     text-transform: none;
 }
 .paragraph_style_20 {
@@ -1086,6 +1086,9 @@
 .style_21 {
     padding: 0px;
 }
+.style_External_731_2386 {
+    position: relative;
+}
 .style_External_184_22 {
     position: relative;
 }
@@ -1118,9 +1121,6 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_731_2401 {
-    position: relative;
 }
 .Body {
     color: rgb(169, 169, 169);
@@ -1201,13 +1201,13 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_2401 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_184_22 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_731_2386 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_200_27 {
