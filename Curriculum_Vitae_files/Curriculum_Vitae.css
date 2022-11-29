@@ -685,6 +685,16 @@
     text-indent: -36px;
     text-transform: none;
 }
+.style_19 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 15px;
+    opacity: 1.00;
+}
 .paragraph_style_26 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
@@ -707,7 +717,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_19 {
+.style_20 {
     line-height: 15px;
 }
 .paragraph_style_27 {
@@ -732,7 +742,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_20 {
+.style_21 {
     color: rgb(4, 51, 255);
     line-height: 15px;
     opacity: 1.00;
@@ -1023,7 +1033,7 @@
     text-indent: -18px;
     text-transform: none;
 }
-.style_21 {
+.style_22 {
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 13px;
     font-stretch: normal;
@@ -1098,15 +1108,15 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_22 {
+.style_23 {
     color: rgb(0, 0, 0);
     line-height: 31px;
     opacity: 1.00;
 }
-.style_23 {
+.style_24 {
     padding: 0px;
 }
-.style_External_184_22 {
+.style_External_731_2402 {
     position: relative;
 }
 .paragraph_style_44 {
@@ -1131,6 +1141,9 @@
     text-indent: -36px;
     text-transform: none;
 }
+.style_External_184_22 {
+    position: relative;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -1138,9 +1151,6 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_731_2402 {
-    position: relative;
 }
 .Body {
     color: rgb(169, 169, 169);
@@ -1212,26 +1222,26 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_shape_layout_style_default {
+    padding: 4px;
+}
 .graphic_shape_layout_style_default_External_278_41 {
     position: relative;
 }
 .graphic_shape_layout_style_default_External_620_41 {
     position: relative;
 }
-.graphic_shape_layout_style_default {
-    padding: 4px;
-}
 .graphic_textbox_layout_style_default_External_731_2402 {
     position: relative;
-}
-.graphic_textbox_layout_style_default {
-    padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_184_22 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_200_27 {
     position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
