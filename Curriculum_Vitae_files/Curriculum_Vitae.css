@@ -450,15 +450,15 @@
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
-    margin-left: 54px;
-    margin-right: 0px;
+    margin-left: -18px;
+    margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 6px;
+    padding-top: 0px;
     text-align: left;
     text-decoration: none;
-    text-indent: -72px;
+    text-indent: 0px;
     text-transform: none;
 }
 .paragraph_style_18 {
@@ -477,7 +477,7 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 6px;
     text-align: left;
     text-decoration: none;
     text-indent: -72px;
@@ -494,15 +494,15 @@
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
-    margin-left: -18px;
-    margin-right: 18px;
+    margin-left: 54px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
-    text-indent: 0px;
+    text-indent: -72px;
     text-transform: none;
 }
 .paragraph_style_20 {
@@ -1009,59 +1009,7 @@
     text-indent: -18px;
     text-transform: none;
 }
-.style_22 {
-    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 16px;
-}
 .paragraph_style_40 {
-    color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: -18px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 3px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_41 {
-    color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: -18px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 5px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_42 {
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -1084,18 +1032,18 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_23 {
+.style_22 {
     color: rgb(0, 0, 0);
     line-height: 31px;
     opacity: 1.00;
 }
-.style_24 {
+.style_23 {
     padding: 0px;
 }
 .style_External_184_22 {
     position: relative;
 }
-.paragraph_style_43 {
+.paragraph_style_41 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -1125,7 +1073,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_731_2402 {
+.style_External_731_2282 {
     position: relative;
 }
 .Body {
@@ -1207,9 +1155,6 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_2402 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
@@ -1217,6 +1162,9 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_200_27 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_731_2282 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
