@@ -603,6 +603,9 @@
     line-height: 15px;
     opacity: 1.00;
 }
+.style_External_731_2288 {
+    position: relative;
+}
 .style_14 {
     color: rgb(0, 0, 0);
     line-height: 15px;
@@ -914,36 +917,14 @@
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 2px;
-    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-top: 0px;
     text-align: left;
     text-decoration: underline;
     text-indent: -36px;
     text-transform: none;
 }
 .paragraph_style_36 {
-    color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 18px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 1px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -18px;
-    text-transform: none;
-}
-.paragraph_style_37 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -965,6 +946,36 @@
     text-indent: -18px;
     text-transform: none;
 }
+.style_22 {
+    font-family: 'Symbol';
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+}
+.paragraph_style_37 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .paragraph_style_38 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
@@ -984,7 +995,7 @@
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
-    text-indent: -18px;
+    text-indent: 0px;
     text-transform: none;
 }
 .paragraph_style_39 {
@@ -1002,14 +1013,36 @@
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 1px;
+    padding-bottom: 6px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_40 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 3px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: -18px;
     text-transform: none;
 }
-.paragraph_style_40 {
+.paragraph_style_41 {
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -1032,18 +1065,18 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_22 {
+.style_23 {
     color: rgb(0, 0, 0);
     line-height: 31px;
     opacity: 1.00;
 }
-.style_23 {
+.style_24 {
     padding: 0px;
 }
 .style_External_184_22 {
     position: relative;
 }
-.paragraph_style_41 {
+.paragraph_style_42 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -1072,9 +1105,6 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_731_2282 {
-    position: relative;
 }
 .Body {
     color: rgb(169, 169, 169);
@@ -1155,6 +1185,9 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_731_2288 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
@@ -1162,9 +1195,6 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_200_27 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_731_2282 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
