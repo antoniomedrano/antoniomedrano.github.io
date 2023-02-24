@@ -943,14 +943,6 @@
     text-indent: -18px;
     text-transform: none;
 }
-.style_22 {
-    font-family: 'Symbol';
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 12px;
-}
 .paragraph_style_37 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
@@ -1018,15 +1010,12 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_731_2270 {
-    position: relative;
-}
-.style_23 {
+.style_22 {
     color: rgb(0, 0, 0);
     line-height: 31px;
     opacity: 1.00;
 }
-.style_24 {
+.style_23 {
     padding: 0px;
 }
 .style_External_184_22 {
@@ -1053,6 +1042,9 @@
     text-decoration: none;
     text-indent: -36px;
     text-transform: none;
+}
+.style_External_731_2264 {
+    position: relative;
 }
 .style_SkipStroke {
     background: transparent;
@@ -1141,7 +1133,7 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_2270 {
+.graphic_textbox_layout_style_default_External_731_2264 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
