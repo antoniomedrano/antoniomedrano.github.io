@@ -363,6 +363,34 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_12 {
+    padding: 0px;
+}
+.style_External_208_29 {
+    position: relative;
+}
+.paragraph_style_12 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
+}
 .Free_Form {
     color: rgb(169, 169, 169);
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -423,6 +451,9 @@
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_208_29 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_371_1333 {
     position: relative;
