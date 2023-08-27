@@ -141,6 +141,22 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_5 {
+    font-family: 'Helvetica-Bold', 'Helvetica', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
+.style_6 {
+    font-family: 'Helvetica-Bold', 'Helvetica', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+}
 .paragraph_style_5 {
     color: rgb(0, 0, 0);
     font-family: 'Helvetica', 'Arial', sans-serif;
@@ -185,7 +201,10 @@
     text-indent: -18px;
     text-transform: none;
 }
-.style_5 {
+.style_External_371_1333 {
+    position: relative;
+}
+.style_7 {
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 21px;
     font-stretch: normal;
@@ -215,9 +234,6 @@
     text-indent: -18px;
     text-transform: none;
 }
-.style_External_371_1333 {
-    position: relative;
-}
 .paragraph_style_8 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
@@ -240,7 +256,18 @@
     text-indent: -18px;
     text-transform: none;
 }
-.style_6 {
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_350_1333 {
+    position: relative;
+}
+.style_8 {
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 19px;
     font-stretch: normal;
@@ -270,18 +297,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_External_350_1333 {
-    position: relative;
-}
-.style_7 {
+.style_9 {
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 14px;
     font-stretch: normal;
@@ -289,7 +305,7 @@
     font-weight: 700;
     line-height: 16px;
 }
-.style_8 {
+.style_10 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
     font-size: 14px;
@@ -299,12 +315,12 @@
     line-height: 16px;
     opacity: 1.00;
 }
-.style_9 {
+.style_11 {
     color: rgb(0, 0, 0);
     line-height: 16px;
     opacity: 1.00;
 }
-.style_10 {
+.style_12 {
     font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
     font-size: 14px;
     font-stretch: normal;
@@ -356,14 +372,14 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_11 {
+.style_13 {
     line-height: 16px;
 }
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
-.style_12 {
+.style_14 {
     padding: 0px;
 }
 .style_External_208_29 {
