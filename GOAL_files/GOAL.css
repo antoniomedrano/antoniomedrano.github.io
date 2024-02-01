@@ -333,6 +333,26 @@ a.class7:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
 }
+a.class8 {
+    color: rgb(2, 30, 170);
+}
+a.class8:visited {
+    color: rgb(2, 30, 170);
+}
+a.class8:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class9 {
+    color: rgb(2, 30, 170);
+}
+a.class9:visited {
+    color: rgb(2, 30, 170);
+}
+a.class9:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
 a:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
