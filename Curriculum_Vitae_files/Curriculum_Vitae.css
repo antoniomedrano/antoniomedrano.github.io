@@ -293,6 +293,9 @@
     text-indent: -63px;
     text-transform: none;
 }
+.style_External_731_2526 {
+    position: relative;
+}
 .style_5 {
     letter-spacing:    -0.14em;
     line-height: 15px;
@@ -1051,9 +1054,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_731_2490 {
-    position: relative;
-}
 .Body {
     color: rgb(169, 169, 169);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -1133,11 +1133,11 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_731_2526 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_731_2490 {
-    position: relative;
 }
 .graphic_textbox_layout_style_default_External_184_22 {
     position: relative;
