@@ -293,9 +293,6 @@
     text-indent: -63px;
     text-transform: none;
 }
-.style_External_731_2526 {
-    position: relative;
-}
 .style_5 {
     letter-spacing:    -0.14em;
     line-height: 15px;
@@ -485,6 +482,9 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_731_2529 {
+    position: relative;
 }
 .paragraph_style_19 {
     color: rgb(0, 0, 0);
@@ -1133,7 +1133,7 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_2526 {
+.graphic_textbox_layout_style_default_External_731_2529 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
