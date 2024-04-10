@@ -745,6 +745,11 @@
     text-indent: -36px;
     text-transform: none;
 }
+.style_22 {
+    color: rgb(0, 0, 0);
+    line-height: 15px;
+    opacity: 1.00;
+}
 .paragraph_style_28 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
@@ -1032,12 +1037,12 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_22 {
+.style_23 {
     color: rgb(0, 0, 0);
     line-height: 31px;
     opacity: 1.00;
 }
-.style_23 {
+.style_24 {
     padding: 0px;
 }
 .style_External_184_22 {
