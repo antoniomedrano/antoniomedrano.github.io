@@ -104,22 +104,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_1 {
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 19px;
-}
-.style_2 {
-    font-family: 'HelveticaNeue-Italic', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 400;
-    line-height: 19px;
-}
 .paragraph_style_4 {
     color: rgb(66, 66, 66);
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -142,13 +126,29 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_3 {
+.style_1 {
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
     line-height: 20px;
+}
+.style_2 {
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
+.style_3 {
+    font-family: 'HelveticaNeue-Italic', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 19px;
 }
 .paragraph_style_5 {
     color: rgb(66, 66, 66);
@@ -236,6 +236,9 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_404_304 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_404_291 {
     position: relative;
 }
@@ -243,9 +246,6 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_404_253 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_404_304 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_404_273 {
@@ -264,30 +264,30 @@ a:visited {
     text-decoration: underline;
 }
 a.class1 {
-    color: rgb(2, 33, 181);
+    color: rgb(2, 30, 170);
 }
 a.class1:visited {
-    color: rgb(2, 33, 181);
+    color: rgb(2, 30, 170);
 }
 a.class1:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
 }
 a.class2 {
-    color: rgb(2, 33, 181);
+    color: rgb(2, 30, 170);
 }
 a.class2:visited {
-    color: rgb(2, 33, 181);
+    color: rgb(2, 30, 170);
 }
 a.class2:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
 }
 a.class3 {
-    color: rgb(2, 33, 181);
+    color: rgb(2, 30, 170);
 }
 a.class3:visited {
-    color: rgb(2, 33, 181);
+    color: rgb(2, 30, 170);
 }
 a.class3:hover {
     color: rgb(255, 38, 0);
@@ -314,20 +314,20 @@ a.class5:hover {
     text-decoration: underline;
 }
 a.class6 {
-    color: rgb(2, 30, 170);
+    color: rgb(2, 33, 181);
 }
 a.class6:visited {
-    color: rgb(2, 30, 170);
+    color: rgb(2, 33, 181);
 }
 a.class6:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
 }
 a.class7 {
-    color: rgb(2, 30, 170);
+    color: rgb(2, 33, 181);
 }
 a.class7:visited {
-    color: rgb(2, 30, 170);
+    color: rgb(2, 33, 181);
 }
 a.class7:hover {
     color: rgb(255, 38, 0);
@@ -344,10 +344,10 @@ a.class8:hover {
     text-decoration: underline;
 }
 a.class9 {
-    color: rgb(2, 30, 170);
+    color: rgb(2, 33, 181);
 }
 a.class9:visited {
-    color: rgb(2, 30, 170);
+    color: rgb(2, 33, 181);
 }
 a.class9:hover {
     color: rgb(255, 38, 0);
