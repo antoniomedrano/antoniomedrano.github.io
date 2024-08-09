@@ -245,9 +245,6 @@
 .graphic_textbox_layout_style_default_External_404_278 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_404_253 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_404_273 {
     position: relative;
 }
@@ -294,10 +291,10 @@ a.class3:hover {
     text-decoration: underline;
 }
 a.class4 {
-    color: rgb(2, 30, 170);
+    color: rgb(2, 33, 181);
 }
 a.class4:visited {
-    color: rgb(2, 30, 170);
+    color: rgb(2, 33, 181);
 }
 a.class4:hover {
     color: rgb(255, 38, 0);
@@ -324,32 +321,22 @@ a.class6:hover {
     text-decoration: underline;
 }
 a.class7 {
-    color: rgb(2, 33, 181);
+    color: rgb(2, 30, 170);
 }
 a.class7:visited {
-    color: rgb(2, 33, 181);
+    color: rgb(2, 30, 170);
 }
 a.class7:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
 }
 a.class8 {
-    color: rgb(2, 30, 170);
+    color: rgb(2, 33, 181);
 }
 a.class8:visited {
-    color: rgb(2, 30, 170);
+    color: rgb(2, 33, 181);
 }
 a.class8:hover {
-    color: rgb(255, 38, 0);
-    text-decoration: underline;
-}
-a.class9 {
-    color: rgb(2, 33, 181);
-}
-a.class9:visited {
-    color: rgb(2, 33, 181);
-}
-a.class9:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
 }
