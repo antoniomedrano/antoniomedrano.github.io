@@ -485,28 +485,6 @@
 }
 .paragraph_style_19 {
     color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 54px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 6px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -72px;
-    text-transform: none;
-}
-.paragraph_style_20 {
-    color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
@@ -527,7 +505,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_21 {
+.paragraph_style_20 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -549,7 +527,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.paragraph_style_22 {
+.paragraph_style_21 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -579,7 +557,7 @@
     font-weight: 400;
     line-height: 15px;
 }
-.paragraph_style_23 {
+.paragraph_style_22 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -639,7 +617,7 @@
     font-weight: 400;
     line-height: 14px;
 }
-.paragraph_style_24 {
+.paragraph_style_23 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -671,7 +649,7 @@
     line-height: 15px;
     opacity: 1.00;
 }
-.paragraph_style_25 {
+.paragraph_style_24 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -696,7 +674,7 @@
 .style_20 {
     line-height: 15px;
 }
-.paragraph_style_26 {
+.paragraph_style_25 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -723,7 +701,7 @@
     line-height: 15px;
     opacity: 1.00;
 }
-.paragraph_style_27 {
+.paragraph_style_26 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -745,7 +723,7 @@
     text-indent: -18px;
     text-transform: none;
 }
-.paragraph_style_28 {
+.paragraph_style_27 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -772,7 +750,7 @@
     line-height: 15px;
     opacity: 1.00;
 }
-.paragraph_style_29 {
+.paragraph_style_28 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -789,6 +767,28 @@
     opacity: 1.00;
     padding-bottom: 6px;
     padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
+}
+.paragraph_style_29 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 6px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -810,7 +810,7 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 6px;
+    padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -828,11 +828,11 @@
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 0px;
+    margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 0px;
+    padding-top: 6px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -854,7 +854,7 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 6px;
+    padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
@@ -862,12 +862,12 @@
 }
 .paragraph_style_33 {
     color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
@@ -875,7 +875,7 @@
     margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 0px;
+    padding-bottom: 3px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
@@ -897,28 +897,6 @@
     margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 3px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -36px;
-    text-transform: none;
-}
-.paragraph_style_35 {
-    color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 18px;
-    margin-right: 18px;
-    margin-top: 0px;
-    opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
     text-align: left;
@@ -926,7 +904,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.paragraph_style_36 {
+.paragraph_style_35 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -948,7 +926,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.paragraph_style_37 {
+.paragraph_style_36 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -970,7 +948,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.paragraph_style_38 {
+.paragraph_style_37 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -992,7 +970,7 @@
     text-indent: -18px;
     text-transform: none;
 }
-.paragraph_style_39 {
+.paragraph_style_38 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -1014,7 +992,7 @@
     text-indent: -18px;
     text-transform: none;
 }
-.paragraph_style_40 {
+.paragraph_style_39 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -1036,7 +1014,7 @@
     text-indent: -18px;
     text-transform: none;
 }
-.paragraph_style_41 {
+.paragraph_style_40 {
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -1070,7 +1048,7 @@
 .style_External_184_22 {
     position: relative;
 }
-.paragraph_style_42 {
+.paragraph_style_41 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -1092,6 +1070,9 @@
     text-indent: -36px;
     text-transform: none;
 }
+.style_External_731_2691 {
+    position: relative;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -1099,9 +1080,6 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_731_2727 {
-    position: relative;
 }
 .Body {
     color: rgb(169, 169, 169);
@@ -1182,13 +1160,13 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_731_2691 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_184_22 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_731_2727 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_200_27 {
