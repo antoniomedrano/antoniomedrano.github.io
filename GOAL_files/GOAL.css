@@ -239,9 +239,6 @@
 .graphic_textbox_layout_style_default_External_404_304 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_404_291 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_404_278 {
     position: relative;
 }
@@ -327,16 +324,6 @@ a.class7:visited {
     color: rgb(2, 30, 170);
 }
 a.class7:hover {
-    color: rgb(255, 38, 0);
-    text-decoration: underline;
-}
-a.class8 {
-    color: rgb(2, 33, 181);
-}
-a.class8:visited {
-    color: rgb(2, 33, 181);
-}
-a.class8:hover {
     color: rgb(255, 38, 0);
     text-decoration: underline;
 }
