@@ -633,21 +633,11 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
-    padding-top: 3px;
+    padding-top: 6px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
     text-transform: none;
-}
-.style_19 {
-    color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 400;
-    line-height: 15px;
-    opacity: 1.00;
 }
 .paragraph_style_24 {
     color: rgb(0, 0, 0);
@@ -671,37 +661,12 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_20 {
-    line-height: 15px;
-}
-.paragraph_style_25 {
-    color: rgb(0, 0, 0);
-    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 18px;
-    margin-right: 18px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 6px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -36px;
-    text-transform: none;
-}
-.style_21 {
+.style_19 {
     color: rgb(4, 51, 255);
     line-height: 15px;
     opacity: 1.00;
 }
-.paragraph_style_26 {
+.paragraph_style_25 {
     color: rgb(0, 0, 0);
     font-family: 'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;
     font-size: 12px;
@@ -723,13 +688,40 @@
     text-indent: -18px;
     text-transform: none;
 }
-.style_22 {
+.style_20 {
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;
     line-height: 14px;
+}
+.paragraph_style_26 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 6px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
+}
+.style_21 {
+    color: rgb(0, 0, 0);
+    line-height: 15px;
+    opacity: 1.00;
 }
 .paragraph_style_27 {
     color: rgb(0, 0, 0);
@@ -753,10 +745,8 @@
     text-indent: -36px;
     text-transform: none;
 }
-.style_23 {
-    color: rgb(0, 0, 0);
+.style_22 {
     line-height: 15px;
-    opacity: 1.00;
 }
 .paragraph_style_28 {
     color: rgb(0, 0, 0);
@@ -770,15 +760,25 @@
     line-height: 15px;
     margin-bottom: 0px;
     margin-left: 18px;
-    margin-right: 0px;
+    margin-right: 18px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 6px;
-    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 3px;
     text-align: left;
     text-decoration: none;
     text-indent: -36px;
     text-transform: none;
+}
+.style_23 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPS-ItalicMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 15px;
+    opacity: 1.00;
 }
 .paragraph_style_29 {
     color: rgb(0, 0, 0);
