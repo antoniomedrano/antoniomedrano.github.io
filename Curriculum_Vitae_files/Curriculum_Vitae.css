@@ -1022,9 +1022,6 @@
     text-indent: -18px;
     text-transform: none;
 }
-.style_External_731_2757 {
-    position: relative;
-}
 .paragraph_style_40 {
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
@@ -1088,6 +1085,9 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_731_2772 {
+    position: relative;
 }
 .Body {
     color: rgb(169, 169, 169);
@@ -1168,7 +1168,7 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_731_2757 {
+.graphic_textbox_layout_style_default_External_731_2772 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
