@@ -1,3 +1,3 @@
-Welcome to Antonio Medrano's personal and professional webpage! 
+Welcome to Antonio Medrano's personal and professional webpage!
 
-relevant collaboration: https://www.ai2es.org
+Relevant collaboration: https://www.ai2es.org
