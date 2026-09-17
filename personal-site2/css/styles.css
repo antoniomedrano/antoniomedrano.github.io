@@ -1,0 +1,300 @@
+/* Custom Properties
+--------------------------------*/
+:root {
+  --brightgray: #363f4c;
+  --ebb: #e9e1e4;
+  --darkblue: #1e63a3;
+  --wildblueyonder: #758fb2;
+
+  --color-dark: var(--brightgray);
+  /* --color-light: var(--ebb); */
+  --color-light: whitesmoke;
+  /* --color-primary: var(--wildblueyonder); */
+  --color-primary: var(--darkblue);
+
+  --font-size-h1: 5.5rem;
+  --font-size-h2: 3rem;
+  --font-size-base: .9375rem;
+  --font-size-tagline: 1.3rem;
+  --font-size-small: 0.7rem;
+}
+
+
+/* Global Styles 
+--------------------------------*/
+/* Alternative box model */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "DM Sans", sans-serif;
+  font-size: var(--font-size-base);
+  line-height: 1.4;
+}
+
+a {
+  color: var(--color-dark);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+}
+
+h2 {
+  font-size: var(--font-size-h2);
+}
+
+h1,
+h2 {
+  font-family: "Ms Madi", cursive;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+.bg-dark a,
+.bg-primary a {
+  color: var(--color-light);
+}
+
+.bg-dark {
+  background: var(--color-dark);
+  color: var(--color-light);
+}
+
+.bg-light {
+  background: var(--color-light);
+  color: var(--color-dark);
+}
+
+.bg-primary {
+  background: var(--color-primary);
+  color: var(--color-light);
+}
+
+.list-reset {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.content-wrap {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px;
+}
+
+.btn {
+  background: var(--color-primary);
+  color: var(--color-light);
+  border: 1px solid var(--color-primary);
+  padding: 8px;
+  min-width: 60px;
+  margin-bottom: 5px;
+  display: inline-block;
+  line-height: 1;
+  border-radius: 4px;
+  text-transform: uppercase;
+  font-size: var(--font-size-small);
+  letter-spacing: 0.08rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: var(--color-light);
+  color: var(--color-primary)
+}
+
+/* Header + Nav 
+--------------------------------*/
+header {
+  height: 100%;
+  background-image: linear-gradient(rgba(117, 143, 178, 0.5),
+      rgb(117 143 178 / 0.5)),
+    url(../images/vista_point.jpg);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: cover;
+  color: var(--color-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-list a {
+  padding: 20px;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.nav-list a:hover {
+  text-decoration: underline;
+}
+
+hgroup {
+  line-height: 0.9;
+}
+
+.tagline {
+  font-size: var(--font-size-tagline);
+  margin: 0;
+}
+
+@media screen AND (orientation: portrait) {
+  header {
+    height: 50%;
+  }
+}
+
+/* About 
+--------------------------------*/
+
+
+
+/* Projects
+--------------------------------*/
+.project-item {
+  border: 1px solid var(--color-primary);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.project-item img {
+  width: 100%;
+}
+
+@media screen AND (min-width: 750px) {
+  .project-item {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 20px;
+  }
+}
+
+
+/* Resume
+--------------------------------*/
+.resume.content-wrap {
+  max-width: 1000px;
+  margin-bottom: 30px;
+}
+
+.resume-container {
+  margin-top: 15px;
+}
+
+.resume h4 {
+  margin-top: 20px;
+}
+
+.job-item,
+.school-item {
+  margin-bottom: 25px;
+}
+
+.organization,
+.degree-field {
+  font-style: italic;
+}
+
+.organization,
+.dates-worked,
+.degree-field,
+.emphasis {
+  margin: 0;
+}
+
+.position,
+.organization,
+.dates-worked,
+.school {
+  color: var(--color-primary);
+}
+
+@media screen AND (min-width: 900px) {
+  .resume-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 30px;
+  }
+
+  .work-experience {
+    grid-row: 1 / 3;
+    grid-column: 2 / 3;
+    border-left: 1px solid var(--color-primary);
+    padding-left: 30px;
+  }
+
+  .profile {
+    border-bottom: 1px solid var(--color-primary);
+  }
+}
+
+@media screen AND (max-width: 899px) {
+  .resume h3 {
+    border-bottom: 1px solid var(--color-primary);
+    margin-top: 30px;
+  }
+}
+
+/* Footer
+--------------------------------*/
+footer {
+  text-align: center;
+  padding: 60px;
+}
+
+.socials-list {
+  display: flex;
+  justify-content: center;
+}
+
+.socials-list img {
+  height: 35px;
+  margin: 15px;
+}
+
+.copyright {
+  font-size: var(--font-size-small);
+}
