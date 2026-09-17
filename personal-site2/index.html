@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antonio's CSS Learning Website</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Ms+Madi&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <!-- //  HEADER / INTRO  // -->
+  <header>
+    <nav class="bg-dark">
+      <ul class="list-reset nav-list">
+        <li><a href="#about">About</a>/</li>
+        <li><a href="#projects">Projects</a>/</li>
+        <li><a href="#resume">Resume</a>/</li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <hgroup>
+      <h1>Antonio Medrano</h1>
+      <p class="tagline">Sr. Project Engineer | Global Community Engagement | Esri</p>
+    </hgroup>
+  </header>
+
+  <main>
+    <!-- //  ABOUT  // -->
+    <section id="about" class="bg-primary">
+      <div class="content-wrap">
+        <h2>About</h2>
+        <p>I'm an eclectic engineer, learning about modern CSS workflows in order help with my job updating ArcGIS Hub
+          templates in the Global Community Development group within Esri.</p>
+        <p>Outside of work, <a href="https://antoniomedrano.github.io/Videos.html" target="_blank">I love to sing</a>,
+          play tennis, garden, be a handyman, and spend time with my wife and kids.</p>
+      </div>
+    </section><!-- end of ABOUT -->
+
+
+    <!-- //  PROJECTS  // -->
+    <section id="projects" class="content-wrap">
+      <h2>Projects</h2>
+      <p>A selection of projects.</p>
+
+      <!-- Add more projects by copying the whole <section> block. -->
+      <section class="project-item">
+        <img srcset="images/project-website-500px.jpg, 
+                         images/project-website-1000px.jpg 2x" src="images/project-website-500px.jpg "
+          alt="Image of a website">
+
+        <div class="project-details">
+          <h3>Project title 1</h3>
+          <p>Project description.</p>
+          <a href="https://update.me" target="_blank">Link to project</a>
+
+          <!-- Optional: use this list if you have multiple links for the project -->
+          <ul class="list-reset">
+            <li><a class="btn" href="https://update.me" target="_blank">Link 1</a></li>
+            <li><a class="btn" href="https://update.me" target="_blank">Link 2</a></li>
+            <li><a class="btn" href="https://update.me" target="_blank">Link 3</a></li>
+          </ul>
+        </div>
+      </section>
+      <section class="project-item">
+        <img srcset="images/project-biz-cards-500px.jpg, 
+                         images/project-biz-cards-1000px.jpg 2x" src="images/project-biz-cards-500px.jpg"
+          alt="Image of a website">
+
+        <div class="project-details">
+          <h3>Project title 2</h3>
+          <p>Project description.</p>
+          <a href="https://update.me" target="_blank">Link to project</a>
+
+          <!-- Optional: use this list if you have multiple links for the project -->
+          <ul class="list-reset">
+            <li><a class="btn" href="https://update.me" target="_blank">Link 1</a></li>
+            <li><a class="btn" href="https://update.me" target="_blank">Link 2</a></li>
+            <li><a class="btn" href="https://update.me" target="_blank">Link 3</a></li>
+          </ul>
+        </div>
+      </section>
+      <section class="project-item">
+        <img srcset="images/project-branding-500px.jpg, 
+                         images/project-branding-1000px.jpg 2x" src="images/project-branding-500px.jpg"
+          alt="Image of a website">
+
+        <div class="project-details">
+          <h3>Project title 3</h3>
+          <p>Project description.</p>
+          <a href="https://update.me" target="_blank">Link to project</a>
+
+          <!-- Optional: use this list if you have multiple links for the project -->
+          <ul class="list-reset">
+            <li><a class="btn" href="https://update.me" target="_blank">Link 1</a></li>
+            <li><a class="btn" href="https://update.me" target="_blank">Link 2</a></li>
+            <li><a class="btn" href="https://update.me" target="_blank">Link 3</a></li>
+          </ul>
+        </div>
+      </section>
+    </section><!-- end of PROJECTS -->
+
+
+    <!-- //  RESUME  // -->
+    <section id="resume" class="resume bg-light content-wrap">
+      <h2>Resume</h2>
+
+      <div class="resume-container">
+        <!-- Profile -->
+        <section class="profile">
+          <h3>Profile</h3>
+          <p>Experienced geospatial engineer with comprehensive expertise in computational geography and advanced GIS
+            software development, aligned with delivering innovative solutions for ArcGIS Hub and ArcGIS Online. Skilled
+            in full-stack languages including JavaScript, Python, and Java, with an ArcGIS Maps SDK for JavaScript
+            Associate 2024 tech certification. Passionate about applying systems thinking and geographic principles to
+            foster community engagement and scalable products at Esri.</p>
+        </section>
+
+        <!-- Work Experience -->
+        <section class="work-experience">
+          <h3>Work Experience</h3>
+
+          <!-- Job 1 -->
+          <section class="job-item">
+            <h4 class="position">Senior Product Engineer | Global Community Engagement</h4>
+            <p class="organization">Esri / Redlands, CA</p>
+            <p class="dates-worked">8/2026 – present</p>
+            <p>Senior Product
+              Engineer helping to bring people together through the power of GIS. I am a geospatial technology champion
+              delivering ArcGIS Hub based product architecture for communities within and outside of Esri. I leverage
+              ArcGIS, open data platforms and other technology platforms to act as enablers to foster geospatial
+              adoption,
+              build community interest underpinned with knowledge of a system or systems approach.</p>
+          </section>
+
+          <!-- Job 2 -->
+          <section>
+            <h4 class="position">Assistant Professor | Computer Science</h4>
+            <p class="organization">Texas A&M Univserity–Corpus Christi (TAMUCC) / Corpus Christi, TX</p>
+            <p class="dates-worked">1/2019 – 6/2026</p>
+            <p>Assistant Professor in the Department of Computer Science supporting the BS, MS, PhD geospatial programs.
+              Also a research faculty at the Conrad Blucher Institute for Surveying and Science.</p>
+            <ul>
+              <li>Awarded part of a $20M NSF grant for AI for Environmental Science (ai2es.org), fully funding 2
+                graduate
+                student advisees and leading to 5 publications</li>
+              <li>Director of GOAL graduate student lab, graduating 2 Geospatial Computer Science Ph.D. and 2 Geospatial
+                Systems Engineering M.S. students as committee chair</li>
+              <li>Taught courses in: Geospatial Information Science (GISC B.S.), the Geospatial Systems Engineering
+                (GSEN
+                M.S.), and Geospatial Computer Science (GSCS Ph.D.)</li>
+            </ul>
+          </section>
+
+          <p>My complete work history is available on <a href="https://www.linkedin.com/in/antonio-medrano/"
+              target="_blank">LinkedIn</a>.
+          </p>
+
+          <p><b>Relevant Work Links<br /></b></p>
+          <ul class="list-reset">
+            <li>
+              <a class="btn" href="https://github.com/antoniomedrano" target="_blank">GitHub Page</a>
+            </li>
+            <li>
+              <a class="btn" href="https://scholar.google.com/citations?user=ynVaMO4AAAAJ" target="_blank">Google
+                Scholar
+                Profile</a>
+            </li>
+          </ul>
+        </section><!-- end of Work Experience -->
+
+        <!-- Education -->
+        <section class="education">
+          <h3>Education</h3>
+
+          <!-- Add more schools by copying the whole <section> block. -->
+          <section class="school-item">
+            <h4 class="school">UC Santa Barbara - Santa Barbara, CA</h4>
+            <p class="degree-field">PhD Geography, 2014</p>
+            <p class="emphasis"><b>Emphasis:</b> Modeling, Measurement, & Computation</p>
+          </section>
+          <section class="school-item">
+            <h4 class="school">UC Santa Barbara - Santa Barbara, CA</h4>
+            <p class="degree-field">MS Media Arts & Technology, 2009</p>
+            <p class="emphasis"><b>Emphasis:</b> Multimedia Engineering</p>
+          </section>
+          <section class="school-item">
+            <h4 class="school">Harvey Mudd College - Claremont, CA</h4>
+            <p class="degree-field">BS Engineering (with honors), 2002</p>
+            <p class="emphasis"><b>Emphasis:</b> Systems Engineering</p>
+          </section>
+        </section><!-- end of Education -->
+      </div>
+    </section><!-- end of RESUME -->
+  </main>
+
+
+  <!-- //  FOOTER  // -->
+  <footer id="contact" class="bg-dark">
+    <h2>Say hello!</h2>
+    <p>Email me at <a href="mailto:email@example.com">email@example.com</a> or visit one of the links below.</p>
+    <ul class="list-reset socials-list">
+      <li>
+        <a href="https://antoniomedrano.github.io/" target="_blank"><img src="images/icon-website-small.jpeg"
+            alt="Personal Webpage"></a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/antonio-medrano/" target="_blank"><img src="images/icon-linkedin.png"
+            alt="LinkedIn Profile Page"></a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/@ToneDaBass" target="_blank"><img src="images/icon-youtube.png"
+            alt="Antonio Medrano's YouTube Channel"></a>
+      </li>
+      <li>
+        <a href="https://home-engage.hub.arcgis.com/" target="_blank"><img src="images/icon-gce-small.png"
+            alt="Esri Global Community Engagement"></a>
+      </li>
+    </ul>
+    <p class="copyright">© 2026 by Antonio Medrano</p>
+  </footer>
+
+</body>
+
+</html>
